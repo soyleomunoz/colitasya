@@ -1,0 +1,24 @@
+# ColitasYa
+
+> ColitasYa es una marca chilena de cursos online y contenido educativo para tutores de perros y gatos. El sitio colitasya.cl es el catálogo principal: muestra los cursos disponibles y publica artículos prácticos. Cada curso tiene su propia página informativa y se compra y se cursa en Hotmart.
+
+## Qué ofrece
+- Cursos online para tutores de perros, de gatos o de ambas especies, sobre convivencia, rutinas, comportamiento, bienestar y tenencia responsable.
+- Modalidad 100% online y a ritmo propio. Pago y acceso a las clases a través de Hotmart.
+- Artículos de blog gratuitos con orientación práctica. El contenido es educativo y no reemplaza la consulta veterinaria.
+
+## Público
+- Personas en Chile y Latinoamérica hispanohablante que conviven con perros o gatos, incluidas quienes acaban de adoptar.
+
+## Páginas clave
+- [Inicio y catálogo de cursos](https://colitasya.cl/#cursos)
+- [Cómo funcionan los cursos](https://colitasya.cl/#como-funciona)
+- [Preguntas frecuentes](https://colitasya.cl/#preguntas)
+- [Señales de estrés en perros: qué observar en casa](https://colitasya.cl/blog/senales-de-estres-en-perros.html)
+- [Caja de arena: errores comunes que molestan a tu gato](https://colitasya.cl/blog/caja-de-arena-errores-comunes.html)
+- [Los primeros días de un cachorro o gatito en casa](https://colitasya.cl/blog/primeros-dias-cachorro-gatito.html)
+
+## Información adicional
+- Ubicación: Santiago, Chile.
+- Este sitio no está afiliado a Meta Platforms, Inc. ni a Google LLC. Los cursos se comercializan mediante Hotmart.
+- Sitio desarrollado por GestixPro (https://gestixpro.cl/).
