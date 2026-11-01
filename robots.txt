@@ -31,4 +31,4 @@ Allow: /
 User-agent: meta-externalagent
 Allow: /
 
-Sitemap: https://colitasya.cl/sitemap.xml
+Sitemap: https://soyleomunoz.github.io/colitasya/sitemap.xml

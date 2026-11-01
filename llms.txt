@@ -1,6 +1,6 @@
 # ColitasYa
 
-> ColitasYa es una marca chilena de cursos online y contenido educativo para tutores de perros y gatos. El sitio colitasya.cl es el catálogo principal: muestra los cursos disponibles y publica artículos prácticos. Cada curso tiene su propia página informativa y se compra y se cursa en Hotmart.
+> ColitasYa es una marca chilena de cursos online y contenido educativo para tutores de perros y gatos. Este sitio es el catálogo principal: muestra los cursos disponibles y publica artículos prácticos. Cada curso tiene su propia página informativa y se compra y se cursa en Hotmart.
 
 ## Qué ofrece
 - Cursos online para tutores de perros, de gatos o de ambas especies, sobre convivencia, rutinas, comportamiento, bienestar y tenencia responsable.
@@ -11,12 +11,12 @@
 - Personas en Chile y Latinoamérica hispanohablante que conviven con perros o gatos, incluidas quienes acaban de adoptar.
 
 ## Páginas clave
-- [Inicio y catálogo de cursos](https://colitasya.cl/#cursos)
-- [Cómo funcionan los cursos](https://colitasya.cl/#como-funciona)
-- [Preguntas frecuentes](https://colitasya.cl/#preguntas)
-- [Señales de estrés en perros: qué observar en casa](https://colitasya.cl/blog/senales-de-estres-en-perros.html)
-- [Caja de arena: errores comunes que molestan a tu gato](https://colitasya.cl/blog/caja-de-arena-errores-comunes.html)
-- [Los primeros días de un cachorro o gatito en casa](https://colitasya.cl/blog/primeros-dias-cachorro-gatito.html)
+- [Inicio y catálogo de cursos](https://soyleomunoz.github.io/colitasya/#cursos)
+- [Cómo funcionan los cursos](https://soyleomunoz.github.io/colitasya/#como-funciona)
+- [Preguntas frecuentes](https://soyleomunoz.github.io/colitasya/#preguntas)
+- [Señales de estrés en perros: qué observar en casa](https://soyleomunoz.github.io/colitasya/blog/senales-de-estres-en-perros.html)
+- [Caja de arena: errores comunes que molestan a tu gato](https://soyleomunoz.github.io/colitasya/blog/caja-de-arena-errores-comunes.html)
+- [Los primeros días de un cachorro o gatito en casa](https://soyleomunoz.github.io/colitasya/blog/primeros-dias-cachorro-gatito.html)
 
 ## Información adicional
 - Ubicación: Santiago, Chile.
